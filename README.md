@@ -16,8 +16,6 @@
 
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cebu, Philippines.
 
-  :telescope: I’m working as a Software Engineer and can do both frontend and backend to create Web Applications.
-
   :zap: In my free time, I explore new technologies to boost my career growth.
 
   :mailbox:You can reach me here  [![Linkedin Badge](https://img.shields.io/badge/-View_linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sherwin-ursal-52752477/)
