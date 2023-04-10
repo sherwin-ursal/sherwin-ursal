@@ -2,6 +2,7 @@
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Sherwin
   </h1>
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -11,7 +12,7 @@
   **sherwin-ursal/sherwin-ursal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   -->
 
-  ### :man_technologist: About Me :
+  <hr>
 
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cebu, Philippines.
 
@@ -19,11 +20,11 @@
 
   :zap: In my free time, I explore new technologies to boost my career growth.
 
-  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-View_linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sherwin-ursal-52752477/)
+  :mailbox:You can reach me here  [![Linkedin Badge](https://img.shields.io/badge/-View_linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sherwin-ursal-52752477/)
   
   <hr>
 
-  ### :hammer_and_wrench: Languages and Tools :
+  ### :hammer_and_wrench: I work with :
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
