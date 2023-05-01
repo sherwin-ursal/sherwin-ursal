@@ -52,6 +52,8 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sherwin-ursal&theme=dark&background=000000)](https://git.io/streak-stats)
   
+  [![wakatime](https://wakatime.com/badge/user/139e29ee-3a0a-4367-bbab-ff6902229d85.svg?style=for-the-badge)](https://wakatime.com/@139e29ee-3a0a-4367-bbab-ff6902229d85)
+  
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sherwin29&theme=radical&custom_title=Time%20spent%20this%20week&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genius29&layout=compact&theme=vision-friendly-dark&)](https://github.com/anuraghazra/github-readme-stats)
